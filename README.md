@@ -4,6 +4,7 @@
   </a>
 </p>
 
+
 ###
 
 <p align="center">
@@ -38,8 +39,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudogoth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudogoth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudogoth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudogoth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -62,4 +63,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+</div>
+
+<br>
+
+<div align="center">
+<img alt="ProfileVisits" src="https://komarev.com/ghpvc/?username=sudogoth&label=Profile%20Visits&color=7DBF6B&style=for-the-badge">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://i.gifer.com/origin/2f/2f548a4cff82755977ae34fe08e4ac50.gif" alt="Descrição da imagem" width="100" />
 </div>
