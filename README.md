@@ -39,8 +39,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudogoth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudogoth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph" />
+  
+  Actions.
+ <a href="https://github.com/sudogoth/github-stats-transparent">
+
+ ![](https://raw.githubusercontent.com/sudogoth/github-stats-transparent/output/generated/overview.svg)
+ ![](https://raw.githubusercontent.com/sudogoth/github-stats-transparent/output/generated/languages.svg)
+
 </div>
 
 ###
@@ -68,6 +73,7 @@
 <br>
 
 <div align="center">
+  
 <img alt="ProfileVisits" src="https://komarev.com/ghpvc/?username=sudogoth&label=Profile%20Visits&color=7DBF6B&style=for-the-badge">
 </div>
 
@@ -76,3 +82,4 @@
 <div align="center">
   <img src="https://i.gifer.com/origin/2f/2f548a4cff82755977ae34fe08e4ac50.gif" alt="Descrição da imagem" width="100" />
 </div>
+
