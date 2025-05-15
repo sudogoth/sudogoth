@@ -40,11 +40,8 @@
 
 <div align="center">
   
-  Actions.
- <a href="https://github.com/sudogoth/github-stats-transparent">
-
- ![](https://raw.githubusercontent.com/sudogoth/github-stats-transparent/output/generated/overview.svg)
- ![](https://raw.githubusercontent.com/sudogoth/github-stats-transparent/output/generated/languages.svg)
+  <img src="https://github-readme-stats.vercel.app/api?username=sudogoth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&bg_color=00000000&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudogoth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&bg_color=00000000&hide_border=true&order=2" height="150" alt="languages graph" />
 
 </div>
 
